@@ -28,3 +28,9 @@ no | name
 1  | r
 2  | s
  
+ class Simple{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+    }  
+}  
+

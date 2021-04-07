@@ -7,6 +7,9 @@
 ####### header 7
 
 *italic*
+
 **bold**
+
 ***italic and bold***
+
 [google](www.google.com)
